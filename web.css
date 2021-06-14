@@ -1,0 +1,56 @@
+body {
+	padding: 20px;
+}
+html, body * {
+    color: rgb(113, 113, 113);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}   
+p { 
+    margin-bottom: 15px;
+}
+h1, h1 *, h2, h2 *, h3, h3 *, h4, h4 *, h5, h5 * {
+    font-weight: normal;
+    color: rgb(80, 161, 82) !important;
+}
+h1, h1 * {
+    font-size: 24px;
+}
+h1, h1 * {
+    font-size: 22px;
+}
+h2, h2 * {
+    font-size: 20px;
+}
+h3, h3 * {
+    font-size: 18px;
+}
+h4, h4 * {
+    font-size: 16px;
+}
+h2, h3, h4, h5 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+a *, a:hover *,
+a, a:hover {
+	text-decoration: underline;
+	color: rgb(120, 169, 210);
+}
+a.new, a.new:hover {
+	color: red;
+}
+h1 a {
+	text-decoration: none;
+}
+h1 a:hover {
+	text-decoration: underline;
+}
+body ul {
+}
+body li {
+    margin-left: 20px;
+}
+sub, sup {
+	font-size: 10px;
+}

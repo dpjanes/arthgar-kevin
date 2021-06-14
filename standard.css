@@ -1,0 +1,52 @@
+pre, body, p, ul, ol, td, h1, h2, h3, h4, h5 {
+	margin-left: 40px;
+	margin-right: 150px;
+	margin-bottom: 5px;
+}
+li {
+	margin-left: 20px;
+}
+body, p, li, td, h1, h2, h3, h4, h5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12;
+}
+h1 {
+	font-size: 16;
+	color: #000099;
+	border-bottom: #0000CC thin solid;
+}
+h2, h3, h4 {
+	font-size: 14;
+	color: #000099;
+}
+h5 {
+	font-size: 13;
+}
+p {
+	font-size: 12;
+}
+li {
+	font-size: 11;
+}
+A {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	color: #ff6666;
+}
+
+
+.mailheader {
+	background-color: #CCCCCC;
+	border-bottom: #999999 thin solid;
+}
+
+.mailquote {
+	font-style: italic;
+}
+
+.mailplayer {
+	border-bottom: #CCC thin solid;
+}
+
