@@ -54,3 +54,16 @@ body li {
 sub, sup {
 	font-size: 10px;
 }
+.mailheader {
+	background-color: #CCCCCC;
+	border-bottom: #999999 thin solid;
+}
+
+.mailquote {
+	font-style: italic;
+}
+
+.mailplayer {
+	border-bottom: #CCC thin solid;
+}
+
