@@ -35,7 +35,7 @@ This page is definitely (and always will be) a work in progress.
 * [Early adventures](ag_early.html)
 * [Later adventures](ag_later.html)
 * [How to browbeat a DM into submission](ag_browbeat.html)
-* [The Black Council](ag_black.html)
+* [The Black Council](ag_black.md)
 * [Random acts of evil](ag_evil.html)
 * [Random acts of lunacy](ag_lunacy.html)
 * [Maps](ag_maps.html)
