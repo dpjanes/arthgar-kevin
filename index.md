@@ -15,10 +15,11 @@ During the first session there were about 10 or 11 different players,
 which quickly fractured into two groups.
 
 This web page is the collected comments by various group members on the
-campaign and its events, remembered some 15 years later.
+campaign and its events, remembered some 15 years later - and then
+modified more over the following 25 years!
 I have edited some of the message text attributed to the others to avoid
 stringing together rambling e-mail threads of clarification.
-This page is definitely a work in progress.
+This page is definitely (and always will be) a work in progress.
 
 ## The Players and Characters
 
@@ -30,7 +31,7 @@ This page is definitely a work in progress.
 
 ## The Stories
 
-* [Campaign chronology](ag_chrono.html)
+* [Campaign chronology](ag_chrono.md)
 * [Early adventures](ag_early.html)
 * [Later adventures](ag_later.html)
 * [How to browbeat a DM into submission](ag_browbeat.html)
@@ -61,25 +62,18 @@ Steve went with the "other group", so it was just the four of us for the first f
 
 So ... there's a <strike>twentieth</strike> fortieth anniversary coming up soon.
 
-<p class="mailheader">
-Cyril;
-September 19, 2002
-</p>
+#### Cyril; September 19, 2002
 
 I suspect my joining would have been a few weeks later than that. It was
 early enough in the fall that the days were still warm (I recall carrying my
 jacket and not wearing it) and Kevin was on a work term somewhere near
 Freshwater Road. I met him at Capital Hobbies while he was on lunch.
 
-<p>
 I happened to be cruising hobby stores looking for gamers just after getting
 out of the military. It had been a few weeks since my last gaming session
 and I needed a dice rolling fix!
 
-<p class="mailheader">
-Steve;
-September 23, 2002
-</p>
+#### Steve; September 23, 2002
 
 Here's some information : the people in my group were Craig Tucker,
 Craig Penney, Paul Roberts (blond, sunglasses, engineering student),
