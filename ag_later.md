@@ -1,0 +1,47 @@
+# Later Adventures
+
+These various stories come from the fourth phase of the campaign,
+in the 1986 through 1988 period.
+
+John adds the following note to many of these stories:
+<i>Here's a few polymorph stories &shy; that were to Kevin's dissatisfaction.</i>
+
+## Polymorph Self
+
+
+
+#### John; November 13, 1988
+
+Then the habit of Karish using polymorph other on various creatures
+to turn them into slugs, which he kept in a jar in his backpack. I had
+hill giants, fire giants, black trolls, hydras, a white dragon, a medusa
+and some other things. We were in a mess for a change fighting a bunch
+of bone devils for some reason. Them and those silly fishing hook
+weapons. What was Karish to do? Well throwing the jar of slugs in the
+middle of them, followed by a dispel magic and a quick exit did help.
+Although Glimar and I didn't wait around to see the results, I can just
+imagine the confusion in that room.
+
+
+## The Purple Dragon
+
+
+There's a lot more to be said about the Purple Dragon, and
+I'll get it in here someday soon (I hope).
+
+#### John; November 13, 1988
+
+Then the failed attack on the Purple Dragon. Great plan but crappy
+cross bow men. We simply had to have the mounds of treasure that the
+Purple Dragon had. Karish turned a number of unwilling orcs (charmed)
+into rot grubs. These loyal servants were then attached to crossbow
+bolts anf fired at the Purple Dragon. One hit and he was dead meat with
+a rot grub borrowing its way to his heart. Damned if all the orcs missed
+before being engulfed by the Purple Dragon.
+
+All was not lost as Rondo (a new monk character I had picked up---I
+could be wrong on this, may have been later - but the death of the
+Purple Dragon is correct) during the confusion ran in and attacked the
+Purple Dragon with a <i>Dagger of Venom</i>. Stab and then we forced Kevin to
+roll the save in front of us and wouldn't you know it he rolled a 1. Bye
+Bye purple Dragon.

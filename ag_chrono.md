@@ -82,7 +82,7 @@ but I'm not sure when.
    <li>The defeat of FASHOR THE BLACK
   </ul>
 </ul>
-</div>
+
 
 ### Second Phase - Thwarting the Black Council
 
@@ -172,7 +172,7 @@ us
 <li> even if KAS returned, there were magic items that could be used
 against them
 </ul>
-</div>
+
 
 ### Diary
 

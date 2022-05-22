@@ -32,14 +32,14 @@ This page is definitely (and always will be) a work in progress.
 ## The Stories
 
 * [Campaign chronology](ag_chrono.md)
-* [Early adventures](ag_early.html)
-* [Later adventures](ag_later.html)
-* [How to browbeat a DM into submission](ag_browbeat.html)
+* [Early adventures](ag_early.md)
+* [Later adventures](ag_later.md)
+* [How to browbeat a DM into submission](ag_browbeat.md)
 * [The Black Council](ag_black.md)
-* [Random acts of evil](ag_evil.html)
-* [Random acts of lunacy](ag_lunacy.html)
-* [Maps](ag_maps.html)
-* [Photos](photos.html)
+* [Random acts of evil](ag_evil.md)
+* [Random acts of lunacy](ag_lunacy.md)
+* [Maps](ag_maps.md)
+* [Photos](photos.md)
 
 ### Updates
 

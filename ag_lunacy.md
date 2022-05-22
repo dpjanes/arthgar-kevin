@@ -1,0 +1,144 @@
+# Random acts of lunacy
+
+## Wake me up before you go go
+
+
+I think this is illustrative of the shift from Players <i>vs.</i>
+NPCs to Us <i>vs.</i> the DM.
+
+#### John; October 23, 1997
+
+     You guys weren't around for this little adventure. Karish was
+travelling by boat on a river, can't remember where, with a crew of minor
+MU's and fighters. I was sleeping when there was  aloud commotion and I was
+awaked by a MU to hurry to the deck. Crawling on board the boat was a huge
+ 8 headed water hydra, chewing up the fighters. I looked at Kevin and say "I
+cast power word kill" Karish says "Die" and the 8 headed hydra falls back
+into the water dead, the crew and the MU's look on in amazement. Karish says
+"don't wake me for this kind of thing again"
+
+
+## NPC impotence
+
+#### John; October 23, 1997
+
+     Where were we when we meet up with a projection Lord Oogar , Captain of
+the Black Riders, in some dungeon. There was this weird altar in a room
+which we didn't enter and all of a sudden he appeared. As usual we taunted
+him and made illusions of us dancing all all the altar. He tried to fireball
+us and we just closed the door on him and laughed.
+
+     There was also the other incident when Karish and Glimar killed a
+assassin(?) in some battle by a woods. Being the magic scavengers that we
+were karish took Glimar and the body to the ethereal plane so we could pick
+the body clean. Kevin got all excited as he could roll his fixed dice and
+generate a wandering ethereal monster. It was classic Karish and Glimar. A
+Ghost approached we both roll saves vs. aging in the open and with our
+Protection from Evil 1'' radius the Ghost could not touch us. Karisk looks
+up from the picking of the body and states "Go away or we shall kill you"
+The Ghost recognizing our power decided to leave. Classic.
+
+     How about Kevin racking his brains for a method of having Type V demons
+annoy Karish. Lets pscionically link three of them together to boost their
+and their range. Works well until we find them. Then meat..
+
+
+## Clearance Strictly 10"
+
+#### John; November 12, 1998
+
+The encounter with a slave train of the Black Council shortly after we
+joined and remained members of for about a whole day. Karish that day didn't
+like slavery so he ordered the slaves released. the leader refused, Karish
+disintigrated him. As his troops looked on with his lieutenats by his side a
+pile of arms and armour fell to the ground from atop his horse. The slaves
+were released.
+
+The teleportation of those 12' high immune to everything creatures that
+Kevin created to try and kill Karish. The DM laughed as we looked out form
+the top of the Tower through the glasteel wall, as the creatures destroyed
+our servants. We did a project image and tried to do some damage to no
+effect. The creatures teleported in to the room. Kevin states "These 2 12' -
+13'  creatures materialize in front of you. Hahahahaha... I pull out the
+Tower design hahahahahaha the ceiling is only 10' high, ...hahahahaha "You
+mean two lifeless, headless bleeding corpses fall to our feet" "Cleaning
+staff, remove this mess."
+
+## Lord of the Akars
+
+#### John; January 29, 1997
+
+
+     I think you are wrong. The Akars didn't come into the picture for quite
+a while. Glimmer was at least 10th level when he became their exalted
+undying figurehead.
+
+#### David; January 29, 1997
+
+  I didn't mean to imply that we had met the Akars that early, just that they and the Black Council and the Akars were
+both from the same location (I think).
+
+#### John; October 23, 1997
+
+I don't know where the majority of my stuff has disappeared. By the way
+either there is an error on Glimars sheet re:experience or also you typed it
+in wrong. He has to have more than 85000. More likely 850,000.  Dave Glimar
+has more than the more than the maximum possible HP's. Explain that one O
+Lord of the Akars, He Who Has Gone Travelling While His Corporeal Body Lies
+Smoldering.
+
+
+## Hit Points
+
+The following section demonstrates that you'll never get an even break,
+even for a simple typing mistake. On the other hand, Glimar was
+occasionally played as if he had twenty-thousand hit points.
+
+#### David; October 22, 1997
+
+NAME: GLIMAR<br>
+CLASS: ILLUSIONIST<br>
+...<br>
+19,500 HP (9000 GP)<br>
+
+#### John; October 22, 1997
+
+19,500 HP. That's an awful lot of HP's. Sounds like one of Kevin's monsters
+specifically generated to kill Karish.
+
+## The Staff of Kings
+
+In the interests of preserving game balance, given
+handed out this little goody to John.
+Essentially, it was a high power flamethrower that
+weighed about 15 pounds and didn't need to be refilled ever.
+
+#### David; January 27, 1997
+
+Things I want to know
+<ul>
+<li> what were your character's two names
+<li> what were Cyril's character's names and types
+<li> what were we doing when we discovered the staff of kings
+</ul>
+
+
+
+
+## A Capital DM
+
+Apparently Kevin's caps lock key is broken...
+
+#### Kevin; Friday, January 31, 1997 12:04:45 PM
+
+HI DAVE,<br>
+CYRIL SENT ME A COPY OF YOUR FAX<br>
+I STARTED WRITING A BOOK ON MY CAMPAIGN YEARS AGO. IT DIDN'T GET VERY
+FAR AS  I NEEDED DETAILED INFO OF EVENTS FROM YOU GUYS
+I AM THINKING ABOUT DEVELOPING A CAMPAIGN WORLD BASED ON MY OLD CAMPAIGN
+LIKE GREYHAWK . ONE THAT COULD BE USED BY ANY DUNGEON MASTER.
+UNFORTUNATELY IN ALL MY MOVES MUCH OF MY INFO. HAS BEEN LOST.  WHAT INFO
+DO YOU HAVE???
+
+REGARDS
+KEVIN
