@@ -1,8 +1,7 @@
 # David's Characters
 
 These are the characters that were played by
-<a href="mailto:dpjanes@sympatico.ca">David Janes</a
-during the Arthgar campaign.
+David Janes during the Arthgar campaign.
 
 ## Glimar
 
@@ -14,37 +13,37 @@ and when we finished playing he was level 12.
 ### Attributes
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Name
 <td>Glimar Glandolin
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Class
 <td>Illusionist
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Race
 <td>Human
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Level
 <td>12
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">XP
 <td>85200
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">AC
 <td>2
 <td>+3 ring of protection; +2 cloak of power
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">HP
 <td>70
 <td>4, 2, 3, 4, 7, 4, 4, ?, ?, ?, ?
@@ -58,15 +57,15 @@ end of the Third Age. Given that my notes say that Glimar was level 12
 in 6 Fourth Age, he's probably 40 now.
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Age
 <td>40
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Height
 <td>5'11
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Weight
 <td>165
 </table>
@@ -77,32 +76,32 @@ A number of these attributes, such as Intelligence, have been modified by
 various items Glimar is wearing (the <i>Cloak of Power</i> for one).
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Strength
 <td>13
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Dexterity
 <td>17
 <td>+2 Reaction; -3 Defensive; (+2 from cloak?)
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Constitution
 <td>16
 <td>+2 HP
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Intelligence
 <td>18
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Wisdom
 <td>12
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Charisma
 <td>14
 <td>
@@ -114,16 +113,16 @@ various items Glimar is wearing (the <i>Cloak of Power</i> for one).
 This is one of the many spell lists I found among my character sheets.
 It looks pretty representive of what I liked to do though.
 
-<ul
+<ul>
 <li>Level 1
- <ul
+ <ul>
  <li>Color Spray
  <li>Color Spray
  <li>Gaze Reflection
  <li>Detect Illusion
  <li>Detect Invisibility
  <li>Chromatic Orb
- <li
+ <li>
  </ul
 <li>Level 2
  <ul
@@ -132,48 +131,50 @@ It looks pretty representive of what I liked to do though.
  <li>Invisibility
  <li>Invisibility
  <li>Mirror Image
- </ul
+ </ul>
 <li>Level 3
- <ul
+ <ul>
  <li>Invisibility, 10'
  <li>Non-detection
  <li>Rope Trick
  <li>Spectral Force
  <li>Wraithform
- </ul
+ </ul>
 <li>Level 4
- <ul
+ <ul>
  <li>Dispel Exhaustion
  <li>Emotion
  <li>Improved Invis
  <li>Phantasmal Killer
- </ul
+ </ul>
 <li>Level 5
- <ul
+ <ul>
  <li>Chaos
  <li>Project Image
  <li>Shadow Magic
  <li>Chaos
- </ul
+ </ul>
 <li>Level 6
- <ul
+ <ul>
  <li>True Sight
  </ul
 <li>Level 7
-</ul
+</ul>
 
 ### Notes
 
 Wears:
-<ul
+
+<ul>
 <li> +3 ring protection [right]
 <li> ring of spell turning [left]
 <li> +2 cloak of power
-</ul
+</ul>
 
 
 Defense Notes (Illusionist) -- How to Defend
-<ul
+
+<ul>
 <li>1-3 level spells -> ring of minor globe
 <li>fire based spells -> crown
 <li>illusions -> crown, dispel illusion
@@ -181,19 +182,20 @@ chaos -> get save
 <li>summoned creatures, devils, demons, magical evil, undead -> crown, amulet
 <li>detection spells -> misdirection, non-detection
 <li>lack of hit points -> dispel exhaustion
-</ul
+</ul>
 
 
 Weapons:
-<ul
+
+<ul>
 <li>Staff: d6, d6
 <li>Dagger +1: d4+1, 2-3 (should be 2-4?)
 <li>Dagger: d4, 1-3
-</ul
+</ul>
 
 
 Magic:
-<ul
+<ul>
 <li>  Wand of Fireballs
 <li>  Wand of Ice
 <li>+3 Ring of Protection (thank you Kevin)
@@ -203,7 +205,7 @@ Magic:
     absorb 6 charge levels of magic
 <li>  Staff of Displacement
 <li>  Ring of Teleport (just call me Mr. Escape)
-</ul
+</ul>
 
 
 
@@ -213,54 +215,54 @@ Magic:
 ### Attributes
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Name
 <td>Cedar
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Class
 <td>Druid
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Race
 <td>Human
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Level
-<td>
+<td>8
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">XP
 <td>
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">AC
-<td>
+<td>4
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">HP
-<td>
+<td>65
 <td>
 </table>
 
 ### Other Attributes
 
-<table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<table border=0 cellspacing=2 width=550 class="tablebackground">
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Age
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Height
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Weight
 <td>
 </table>
@@ -269,38 +271,39 @@ Magic:
 
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Strength
 <td>
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Dexterity
-<td>
+<td>17
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Constitution
-<td>
+<td>16
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Intelligence
 <td>
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Wisdom
-<td>
+<td>18
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Charisma
 <td>
 <td>
-
 </table>
-<pre
+
+
+<pre>
 [ PAGE 1 ]
 [ This looks like something I just scribbled down to play a game session ]
 [ COLUMN 1 ]
@@ -336,7 +339,7 @@ Staff Curing (d12) 30 charges
   o Cure Serious [ crossed out ]
   o   "       "
 
-[ In the bottom corner, a mysterious enscription ]
+[ In the bottom corner, a mysterious inscription ]
 12,000
 
 [ PAGE 2 ]
@@ -363,9 +366,9 @@ Staff Curing (d12) 30 charges
   o Tounges
 5 o Raise
   o Flame Strike [ crossed out ]
-</pre
+</pre>
 
-<pre
+<pre>
 DRUID - level 8
 ---------------
 (There is also a note here that my Druid has 68 HP.)
@@ -383,43 +386,43 @@ spells - 1. 4 + 2 = 6
          2. 4 + 2 = 6
          3. 3 + 1 = 4
          4. 2 + 1 = 3
-</pre
+</pre>
 
 ## <a name="Kalib">Kalib Hastur</a>
 ### Attributes
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Name
-<td>Cedar
+<td>Kalib Hastur
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Class
-<td>Druid
+<td>Thief
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Race
-<td>Human
+<td>1/2 Elf Thief
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Level
 <td>
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">XP
 <td>
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">AC
 <td>
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">HP
 <td>
 <td>
@@ -427,16 +430,16 @@ spells - 1. 4 + 2 = 6
 
 ### Other Attributes
 
-<table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<table border=0 cellspacing=2 width=550 class="tablebackground">
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Age
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Height
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Weight
 <td>
 </table>
@@ -508,37 +511,37 @@ I've drawn a little stick man with a paper hat on his head.
 ### Attributes
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Name
 <td>Elric
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Class
 <td>Fighter/MU
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Race
 <td>Half-Elf
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Level
 <td>3/2
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">XP
 <td>
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">AC
 <td>
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">HP
 <td>
 <td>
@@ -547,11 +550,11 @@ I've drawn a little stick man with a paper hat on his head.
 ### Other Attributes
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Age
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Height
 <td>
 
@@ -564,32 +567,32 @@ I've drawn a little stick man with a paper hat on his head.
 
 
 <table border=0 cellspacing=2 width=550 class="tablebackground"
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading" width=100>Strength
 <td>15
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Dexterity
 <td>13
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Constitution
 <td>14
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Intelligence
 <td>17
 <td>
 
-<tr class="tablerowa"
+<tr class="tablerowa">
 <td class="tablerowheading">Wisdom
 <td>15
 <td>
 
-<tr class="tablerowb"
+<tr class="tablerowb">
 <td class="tablerowheading">Charisma
 <td>10
 <td>
