@@ -39,7 +39,7 @@ This page is definitely (and always will be) a work in progress.
 * [Random acts of evil](ag_evil.md)
 * [Random acts of lunacy](ag_lunacy.md)
 * [Maps](ag_maps.md)
-* [Photos](photos.md)
+* [Photos](ag_photos.md)
 
 ### Updates
 
