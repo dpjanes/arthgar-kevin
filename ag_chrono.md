@@ -33,7 +33,7 @@ any point in non-MUs being involved in most activities.
 ### First Phase - Chagmat through Fashor
 
 See the section
-<a href="early.md">Early Days</a> for more detailed notes about this time.
+<a href="ag_early.md">Early Days</a> for more detailed notes about this time.
 For reference purposes, we were playing at the Health Sciences Center
 cafeteria in December, 1982 when we defeated Fashor.
 Normally we played in either the Orange Room or the Thompson

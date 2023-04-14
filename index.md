@@ -1,6 +1,10 @@
 # Arthgar
 
-[The Muse, 17 Sep 1982](https://collections.mun.ca/digital/collection/muse/id/6693/rec/19)
+<div style="float: right; margin-left: 10px; margin-bottom: 10px; text-align: center">
+<a href="photos/1982-09-cgs.jpg"><img src="photos/1982-09-cgs.jpg" style="width: 320px" /></a>
+<br />
+<a href="https://collections.mun.ca/digital/collection/muse/id/6693/rec/19">The Muse, 17 Sep 1982</a>
+</div>
 
 Arthgar is the campaign world in which I played D&amp;D from September 19, 1982
 through to 1989 (or so), though more time was spent at the table in the
